@@ -1,0 +1,28 @@
+.form {
+  max-width: 280px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 20px 0 50px 0;
+}
+
+.form input {
+  width: 280px;
+  height: 30px;
+}
+
+.form select {
+  width: 280px;
+  height: 30px;
+}
+
+.form label {
+  padding-right: 15px;
+}
+
+.form button {
+  margin-top: 10px;
+}

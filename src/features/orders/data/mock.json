@@ -1,0 +1,156 @@
+[
+  {
+    "id": "1",
+    "client": "Іван Петренко",
+    "date": "2025-07-14T10:30:00Z",
+    "status": "new",
+    "total": 1200
+  },
+  {
+    "id": "2",
+    "client": "Олена Коваль",
+    "date": "2025-07-13T15:45:00Z",
+    "status": "in_progress",
+    "total": 3400
+  },
+  {
+    "id": "3",
+    "client": "Максим Іваненко",
+    "date": "2025-07-12T09:00:00Z",
+    "status": "completed",
+    "total": 875
+  },
+  {
+    "id": "4",
+    "client": "Наталія Ковтун",
+    "date": "2025-07-11T14:15:00Z",
+    "status": "cancelled",
+    "total": 1300
+  },
+  {
+    "id": "5",
+    "client": "Андрій Шевченко",
+    "date": "2025-07-10T11:20:00Z",
+    "status": "new",
+    "total": 2200
+  },
+  {
+    "id": "6",
+    "client": "Марина Гончар",
+    "date": "2025-07-09T16:30:00Z",
+    "status": "in_progress",
+    "total": 960
+  },
+  {
+    "id": "7",
+    "client": "Богдан Лисенко",
+    "date": "2025-07-08T13:05:00Z",
+    "status": "completed",
+    "total": 1100
+  },
+  {
+    "id": "8",
+    "client": "Ірина Мельник",
+    "date": "2025-07-07T17:40:00Z",
+    "status": "cancelled",
+    "total": 740
+  },
+  {
+    "id": "9",
+    "client": "Дмитро Савчук",
+    "date": "2025-07-06T08:15:00Z",
+    "status": "new",
+    "total": 1980
+  },
+  {
+    "id": "10",
+    "client": "Світлана Ткаченко",
+    "date": "2025-07-05T12:25:00Z",
+    "status": "in_progress",
+    "total": 2550
+  },
+  {
+    "id": "11",
+    "client": "Юрій Романюк",
+    "date": "2025-07-04T10:10:00Z",
+    "status": "completed",
+    "total": 1500
+  },
+  {
+    "id": "12",
+    "client": "Людмила Сидоренко",
+    "date": "2025-07-03T14:00:00Z",
+    "status": "cancelled",
+    "total": 890
+  },
+  {
+    "id": "13",
+    "client": "Олександр Черненко",
+    "date": "2025-07-02T09:45:00Z",
+    "status": "new",
+    "total": 3100
+  },
+  {
+    "id": "14",
+    "client": "Тетяна Кравець",
+    "date": "2025-07-01T13:35:00Z",
+    "status": "in_progress",
+    "total": 2040
+  },
+  {
+    "id": "15",
+    "client": "Петро Демченко",
+    "date": "2025-06-30T11:50:00Z",
+    "status": "completed",
+    "total": 1340
+  },
+  {
+    "id": "16",
+    "client": "Катерина Ющенко",
+    "date": "2025-06-29T15:10:00Z",
+    "status": "cancelled",
+    "total": 1800
+  },
+  {
+    "id": "17",
+    "client": "Володимир Кравченко",
+    "date": "2025-06-28T12:30:00Z",
+    "status": "new",
+    "total": 2700
+  },
+  {
+    "id": "18",
+    "client": "Ганна Литвин",
+    "date": "2025-06-27T10:05:00Z",
+    "status": "in_progress",
+    "total": 990
+  },
+  {
+    "id": "19",
+    "client": "Ігор Остапчук",
+    "date": "2025-06-26T14:55:00Z",
+    "status": "completed",
+    "total": 1450
+  },
+  {
+    "id": "20",
+    "client": "Валентина Кушнір",
+    "date": "2025-06-25T09:30:00Z",
+    "status": "cancelled",
+    "total": 1210
+  },
+  {
+    "id": "21",
+    "client": "Микола Павленко",
+    "date": "2025-06-24T16:20:00Z",
+    "status": "new",
+    "total": 1750
+  },
+  {
+    "id": "22",
+    "client": "Ольга Соловей",
+    "date": "2025-06-23T13:00:00Z",
+    "status": "in_progress",
+    "total": 890
+  }
+]

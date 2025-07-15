@@ -1,0 +1,48 @@
+.formPagination {
+  padding-top: 10px;
+}
+
+@media (max-width: 767px) {
+  .orderTable {
+    width: 100%;
+    max-width: 1280px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-collapse: collapse;
+
+    thead {
+      display: none;
+    }
+
+    .formPagination {
+      display: flex;
+      padding-top: 10px;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    tbody tr {
+      display: block;
+      margin-bottom: 16px;
+      border: 1px solid #ddd;
+      border-radius: 6px;
+      padding: 8px;
+    }
+
+    tbody td {
+      display: flex;
+      justify-content: space-between;
+      padding: 6px 8px;
+      border-bottom: 1px solid #eee;
+      font-size: 14px;
+    }
+
+    tbody td::before {
+      content: attr(data-label);
+      font-weight: bold;
+      margin-right: 8px;
+    }
+  }
+}
