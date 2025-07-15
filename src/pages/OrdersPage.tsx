@@ -6,7 +6,7 @@ interface OrdersPageProps {}
 
 export const OrdersPage: FC<OrdersPageProps> = ({}) => {
   return (
-    <div style={{ width: '90%', display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
+    <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'center'}}>
       <OrderForm />
       <OrdersTable />
     </div>
